@@ -19,6 +19,7 @@ public class Main {
         int SOMA = A + B;
         
         System.out.printf("SOMA = %d%n", SOMA);
+        sc.close();
     }
  
 }
