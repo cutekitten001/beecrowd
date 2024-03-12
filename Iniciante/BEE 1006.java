@@ -23,6 +23,7 @@ public class Main {
         double media = ((2 * A) + (3 * B) + (5 * C)) / 10;
  
         System.out.printf("MEDIA = %.1f%n", media);
+        sc.close();
     }
  
 }
